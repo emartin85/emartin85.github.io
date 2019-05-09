@@ -1,0 +1,45 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="platos.xsl"?>
+<platos xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" nombre="Postres" xsi:noNamespaceSchemaLocation="schema.xsd">
+<plato id="Basico">
+<nombre>Nombre del plato</nombre>
+<imagen>../imagenes/platos/"plato".jpg</imagen>
+<video>https://www.youtube.com/embed/"enlace"</video>
+<musica>../audio/"numero".mp3</musica>
+<ingredientes>
+<titulo>
+
+</titulo>
+<ingrediente>
+
+</ingrediente>
+</ingredientes>
+<introduccion>
+
+</introduccion>
+<preparacion>
+<titulo>
+
+</titulo>
+<paso>
+
+</paso>
+</preparacion>
+<preparacion>
+<titulo>
+
+</titulo>
+<paso>
+
+</paso>
+</preparacion>
+<preparacion>
+<titulo>
+
+</titulo>
+<paso>
+
+</paso>
+</preparacion>
+</plato>
+</platos>

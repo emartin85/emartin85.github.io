@@ -1,0 +1,53 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="platos.xsl"?>
+<platos xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" nombre="Postres" xsi:noNamespaceSchemaLocation="schema.xsd">
+<plato id="Basico">
+<nombre>Tiramisú</nombre>
+<imagen>../imagenes/platos/tiramisu.jpg</imagen>
+<video>https://www.youtube.com/embed/ksO2FCsPpsA</video>
+<musica>../audio/8.mp3</musica>
+<ingredientes>
+<titulo>Ingredientes para Tiramisú. Receta italiana</titulo>
+<ingrediente>400 g. de queso-crema Mascarpone</ingrediente>
+<ingrediente>6 huevos (de los que empleamos 6 yemas para el sabayón y 4 claras para montar)</ingrediente>
+<ingrediente>150 g. de azúcar glas (100 g. para las yemas y 50 g. para las claras)</ingrediente>
+<ingrediente>300 g. de bizcochos de soletilla</ingrediente>
+<ingrediente>4 cucharadas de Amaretto o el licor que nos guste</ingrediente>
+<ingrediente>100 g. de cacao en polvo</ingrediente>
+<ingrediente>175 g. de café fuerte (el que más nos guste)</ingrediente>
+<ingrediente>1 pellizco de sal para montar las claras</ingrediente>
+</ingredientes>
+<introduccion>
+El tiramisú es quizás una de las recetas de postres más famosas de la cocina italiana.
+Uno de los dulces italianos por excelencia y se ha convertido en una receta tradicional italiana a pesar de ser bastante reciente.
+Su origen se sitúa en la región de Véneto en los años 50 y no llevaba marcarpone ni licor, sin queso ¿sorprendidos?
+El tiramisú tal como lo conocemos ahora en su tiempos era mucho más sencillo. Consistía en un dulce fortalecedor y de inmediato efecto gracias a la cantidad de glúcidos que incorporaba.
+En aquellos tiempos sólo empleaban 5 ingredientes: huevos y azúcar batidos, bizcochos Savoiardi mojados en café expresso y cacao en polvo.
+El queso lo añadieron después pues la crema de queso ralentiza la digestión, obteniendo el efecto contrario de somnolencia.
+La evolución y posterior reconocimiento se produjo gracias a la cadena de restaurantes Toulá en 1968 que dio a conocer en toda Italia este postre delicado, sencillo y muy cremoso.
+</introduccion>
+<preparacion>
+<titulo>Preparación de la crema sabayón</titulo>
+<paso>Calentamos agua en una cazuela grande, debe estar caliente pero sin llegar a hervir. Mientras se calienta el agua vamos separando las yemas de las claras y apartamos en una taza. Las claras las vamos a montar posteriormente, reservamos.</paso>
+<paso>Los huevos deben ser frescos y hay que manipularlos a temperatura ambiente. Vamos a usar azúcar glass con un toque de vainilla, lo mezclamos en un cuenco metálico con todas las yemas.</paso>
+<paso>Empezamos batiendo en el cuenco fuera del agua y cuando comience a espumear introducimos el cuenco en la cazuela con el agua caliente.</paso>
+<paso>Una vez dentro batimos con unas varillas manualmente o con las de la batidora hasta que las yemas doblen de tamaño. Vamos añadiendo poco a poco las cuatro cucharadas de amaretto y mezclando de manera envolvente hasta que estén incorporadas a la crema.</paso>
+<paso>Después de mezclar todo sacamos del baño maría y seguimos en frío hasta que nos quede una crema esponjosa y compacta. Reservamos para el montaje del tiramisú.</paso>
+</preparacion>
+<preparacion>
+<titulo>Preparación del tiramisú italiano</titulo>
+<paso>Batimos el queso hasta que quede cremoso (lo mejor es batirlo a temperatura ambiente). Mezclamos con la crema sabayón. Mezcladlo suavemente sin que se baje la crema, queremos conseguir es una crema esponjosa.</paso>
+<paso>Montamos las claras que tenemos reservadas a punto de nieve. Para ello introducimos las claras a temperatura ambiente en un bol en el que no haya ningún resto de grasa o no subirán.</paso>
+<paso>Les añadimos un pellizco de sal y empezamos a batir. Mientras batimos vamos añadiendo el azúcar en polvo. Batimos hasta que las claras suban y queden firmes. Luego manejamos el merengue con una espátula de silicona.</paso>
+<paso>Añadimos las claras montadas a la crema anterior. Mezclamos de manera envolvente y con cuidado hasta que quede todo integrado. Y ya tenemos lo más importante: la crema base del tiramisú. Por si sola está que te mueres, nunca he podido evitar comerme una o dos cucharadas.</paso>
+<paso>Lo demás es pan comido, ponemos una cafetera italiana con un buen café. El que más nos guste, y una vez preparado lo dejamos enfriar. Cuando este frío asustamos los bizcochos con el café, tampoco tienen que soltar mucho líquido.</paso>
+</preparacion>
+<preparacion>
+<titulo>Presentación final del tiramisú italiano</titulo>
+<paso>Ponemos una capa de bizcochos de soletilla y otra de crema, así dos o tres veces y acabamos con crema.</paso>
+<paso>El último paso es el del toque del cacao, imprescindible que sea cacao de calidad y amargo. Este ingrediente es el que da ese contraste tan importante en este postre.</paso>
+<paso>Lo espolvoreamos sobre el postre con un colador para que no queden grumillos. Yo suelo dejar este paso para el final de todo. Justo antes de presentarlo a los invitados, porque al enfriar el cacao tiene peor presentación.</paso>
+<paso>Y lo fundamental, metedlo a la nevera para que enfríe. Yo lo dejo siempre de un día para otro.</paso>
+</preparacion>
+</plato>
+</platos>

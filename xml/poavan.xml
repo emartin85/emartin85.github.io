@@ -1,0 +1,89 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="platos.xsl"?>
+<platos xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" nombre="Postres" xsi:noNamespaceSchemaLocation="schema.xsd">
+<plato id="Avanzado">
+<nombre>Filloas caramelizadas rellenas de crema pastelera</nombre>
+<imagen>../imagenes/platos/filloas.jpg</imagen>
+<video>https://www.youtube.com/embed/0xaftW5jt1U</video>
+<musica>../audio/10.mp3</musica>
+<ingredientes>
+<titulo>
+Ingredientes para Filloas caramelizadas rellenas de crema pastelera
+</titulo>
+<ingrediente>4 yemas de huevo (crema pastelera)</ingrediente>
+<ingrediente>100 g de azúcar (crema pastelera)</ingrediente>
+<ingrediente>50 g de maicena (crema pastelera)</ingrediente>
+<ingrediente>1/2 l de leche entera infusionada (crema pastelera)</ingrediente>
+<ingrediente>1 vaina de vainilla, 1 rama de canela en rama y 1 limón (para infusionar la leche)</ingrediente>
+<ingrediente>4 huevos grandes (filloas)</ingrediente>
+<ingrediente>750 ml de leche entera (filloas)</ingrediente>
+<ingrediente>1 pellizco de sal (filloas)</ingrediente>
+<ingrediente>400 g de harina de trigo (filloas)</ingrediente>
+<ingrediente>50 g de mantequilla derretida (filloas)</ingrediente>
+<ingrediente>Azúcar glass (en polvo) y un toque de canela (para el caramelizado final)</ingrediente>
+</ingredientes>
+<introduccion>
+Una de las recetas de postre más preparada y consumida en Galicia durante todo el año son las filloas.
+El postre de hoy va un poco más allá, son las típicas filloas de leche como las que podéis encontrar en todas las pastelerías o restaurantes de Ourense pero rellenas de crema pastelera.
+Además le hemos aportado un caramelizado posterior con soplete (quedan mucho más ricas con este toque similar a la crema catalana).
+Cuando hablamos de filloas o frixuelos asturianos, la mayoría dice que son diferentes pero la verdad es que son muy parecidos.
+Las filloas, freixó, afilloa, filloga o fisuelo (varía el nombre dependiendo de la región), son uno de los productos más famosos de la gastronomía gallega.
+Un postre muy famoso del entroido, tal es así que las auténticas incorporan caldo en su preparación y en la Matanza, sangre de cerdo en su preparación.
+No se entiende un Entroido o Carnaval sin ellas y las orejas de Carnaval. Quizás este sea el postre más consumido en todas las casas de Galicia ya que se han convertido en un postre típico en época de Don Carnal.
+Hay muchas recetas para prepararlas, pero todas utilizan al menos harina, leche, huevos y sal.
+El secreto de las más exquisitas se encuentra en el arte de mantener la temperatura constante de la sartén, piedra o plancha de fundición (filloeira) donde se cuecen.
+También depende del grosor, cuanto más finas más ricas. A diferencia de las crepes de Bretaña francesa en Galicia las filloas no se hacen nunca con harina integral.
+</introduccion>
+<preparacion>
+<titulo>
+Preparación de la crema pastelera. Aromatiza la leche
+</titulo>
+<paso>Lo primero es preparar los ingredientes con los que vamos a aromatizar la leche. Lavamos muy bien el limón y pelamos su piel de manera fina, sin mucho blanco que luego nos amargue el postre. Abrimos la vaina de vainilla  y sacamos las semillas que reservaremos para añadir más tarde a la leche. Si no encontráis vaina de vainilla la podéis sustituir por esencia de vainilla, le dará el toque aunque no será igual.</paso>
+<paso>Separamos un vasito de leche del total que vamos a emplear y lo reservamos. Calentamos el resto de la leche en un cazo a fuego medio casi hasta el punto de ebullición. Bajamos la temperatura y retiramos del fuego.</paso>
+<paso>Añadimos las semillas de vainilla, la piel del limón y por último la canela en rama partida por la mitad. Dejamos todo en reposo infusionando durante 10 minutos.</paso>
+</preparacion>
+<preparacion>
+<titulo>
+Preparación de la crema pastelera para el relleno de las filloas
+</titulo>
+<paso>Mezclamos la maicena en el vaso de leche tibia y juntamos hasta que no tenga nada de grumos.</paso>
+<paso>Si es necesario le pasamos la batidora o usamos unas varillas. Separamos las yemas de las claras.</paso>
+<paso>Ponemos las yemas en un bol y batimos con el azúcar hasta que espumee.</paso>
+<paso>Añadimos el vaso de leche con la fécula de maíz disuelta. Volvemos a batir hasta que no queden grumos, tiene que quedar una masa homogénea. Reservamos.</paso>
+<paso>Colamos la leche infusionada y la volvemos a añadir al cazo, calentamos a media ebullición. Añadimos la crema del paso anterior.</paso>
+<paso>Lo vamos añadiendo poco a poco y mezclando con unas varillas o una cuchara de madera sin parar hasta que espese. No debe hervir en ningún momento.</paso>
+<paso>La textura de la crema debe estar ligeramente espesa y sin grumitos. Es muy importante no dejar de remover pues puede llegar a quemarse o pegarse a la cazuela.</paso>
+<paso>El secreto como en casi todas las recetas es tener paciencia y no dejar de remover siempre para el mismo lado hasta que quede una crema homogénea.</paso>
+<paso>Añadimos la mantequilla para acabar de mantecar, hace más crema y le da brillo. Dejamos enfriar totalmente para empezar con la masa de las filloas.</paso>
+</preparacion>
+<preparacion>
+<titulo>
+Preparación de la masa de las filloas
+</titulo>
+<paso>En un bol grande echamos la leche, la harina, un pellizco de sal, la mantequilla en pomada y los huevos.</paso>
+<paso>Batimos todo con la batidora sin que queden grumos. Dejamos reposar una hora para que espese ligeramente (aunque la crema debe quedar suelta).</paso>
+<paso>En una sartén antiadherente o crepera caliente untamos un poco de mantequilla, tocino o unas gotas de aceite.</paso>
+<paso>Si empleamos manteca o mantequilla la podemos manipular con un tenedor. Si empleáis mantequilla  un truco fácil es partir un poco en forma de barra, envolver un extremo en papel de aluminio para poder sujetarla y untar con el otro la sartén.</paso>
+<paso>Untamos toda la sartén de esta manera hasta que se derrita la mantequilla. No debe de quedar muy grasienta pero tampoco debemos quedarnos cortos.</paso>
+<paso>Si empleáis tocino es más sencillo, sólo tenéis que pincharlo con un tenedor e ir frotando la crepera-filloeira hasta que quede bien impregnada.</paso>
+<paso>Cuando la sartén esté caliente echamos la crema de manera que cubra todo el fondo, solamente la justa para que queden finas.</paso>
+<paso>Suelo emplear una crepera, perfecta por un diseño liso al estilo de las filloeiras gallegas.</paso>
+<paso>Con una distribución de calor inmediata y así poder controlar el grosor de la filloa sin pasarme y me quedan todas iguales. Además está hecha de hierro que es un perfecto conductor de calor, de forma que puedo cocinar con el fuego mediano o bajo.</paso>
+<paso>La medida de crema es la de un cucharón (no echéis demasiado porque os saldrán muy gordas). Levantamos, inclinamos y giramos la sartén para que la crema se reparta por todo el fondo.</paso>
+</preparacion>
+<preparacion>
+<titulo>
+Preparación de las filloas y presentación final
+</titulo>
+<paso>La filloa empezará a cocerse al momento, la tendremos como 10-15 segundos a temperatura media-baja.</paso>
+<paso>Cuando los bordes empiecen a doblarse hacia arriba (porque están tostaditos) es el momento adecuado para darle la vuelta con el tenedor o con los dedos.</paso>
+<paso>Cuando le deis la vuelta si el tono del tostado no es dorado será por falta de huevo, podéis aprovechar para añadir otro más a la crema.</paso>
+<paso>Doramos por ambos lados y vamos apilando en un plato grande. Recordad que la primera filloa es de prueba (yo me la zampo en el momento).</paso>
+<paso>Es la más grasienta porque la sartén va cogiendo el punto de temperatura y el grado de grasa de la mantequilla o grasa a emplear. La segunda filloa suele salir ya perfecta.</paso>
+<paso>Continuamos haciendo las filloas hasta que se acabe la crema. Si lo del tenedor no se os da bien podéis usar el truco de dar la vuelta a la filloa con un plato. Como si fuese una tortilla de patata, según se coge práctica deja de ser necesario. Reservamos en un plato.</paso>
+<paso>El paso final es el de la presentación, rellenamos cada filloa con dos cucharadas a tope de crema pastelera.</paso>
+<paso>Enrollamos y espolvoreamos con azúcar en polvo.</paso>
+<paso>Quemamos el azúcar con un soplete de cocina hasta que caramelice, si las servimos inmediatamente.</paso>
+</preparacion>
+</plato>
+</platos>

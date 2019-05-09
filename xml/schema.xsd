@@ -1,0 +1,41 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema" elementFormDefault="qualified">
+  <xs:element name="platos">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element ref="plato"/>
+      </xs:sequence>
+      <xs:attribute name="nombre" type="xs:string" use="required"/>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="plato">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element name="nombre" type="xs:string"/>
+        <xs:element name="imagen" type="xs:string"/>
+        <xs:element name="video" type="xs:string"/>
+        <xs:element name="musica" type="xs:string"/>
+        <xs:element ref="ingredientes"/>
+        <xs:element name="introduccion" type="xs:string"/>
+        <xs:element ref="preparacion" maxOccurs="unbounded"/>
+      </xs:sequence>
+      <xs:attribute name="id" type="xs:string" use="required"/>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="ingredientes">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element name="titulo" type="xs:string"/>
+        <xs:element name="ingrediente" type="xs:string" maxOccurs="unbounded"/>
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="preparacion">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element name="titulo" type="xs:string"/>
+        <xs:element name="paso" type="xs:string" maxOccurs="unbounded"/>
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+</xs:schema>

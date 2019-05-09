@@ -1,0 +1,70 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="platos.xsl"?>
+<platos xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" nombre="Principal" xsi:noNamespaceSchemaLocation="schema.xsd">
+<plato id="Aprendiz">
+<nombre>Arroz marinero con merluza</nombre>
+<imagen>../imagenes/platos/marinero.jpg</imagen>
+<video>https://www.youtube.com/embed/2ygFdRAZk0g</video>
+<musica>../audio/6.mp3</musica>
+<ingredientes>
+<titulo>
+Ingredientes para Arroz marinero con merluza
+</titulo>
+<ingrediente>1/2 kg. de merluza (fresca o congelada)</ingrediente>
+<ingrediente>300 g. de arroz de grano redondo SOS</ingrediente>
+<ingrediente>1 l. de caldo de pescado o agua</ingrediente>
+<ingrediente>2 patatas para cocer</ingrediente>
+<ingrediente>1 pimiento verde y otro rojo</ingrediente>
+<ingrediente>2 tomates grandes y maduros</ingrediente>
+<ingrediente>1 diente de ajo</ingrediente>
+<ingrediente>Perejil fresco</ingrediente>
+<ingrediente>2 pimientos choriceros (o 1 cucharadita de pulpa de pimiento choricero)</ingrediente>
+<ingrediente>1 hojita de laurel</ingrediente>
+<ingrediente>Pimentón dulce</ingrediente>
+<ingrediente>Aceite de oliva virgen extra</ingrediente>
+<ingrediente>Sal (al gusto de cada casa)</ingrediente>
+</ingredientes>
+<introduccion>
+Un arroz con todo el sabor al mar, pero donde todos los ingredientes son muy pequeñitos, el pescado sin una espina y muy fácil de comer.
+Por eso, es perfecto para preparar en casa si tenéis niños que no le guste el pescado, en el formato tradicional (muy rico) pero que no entra por los ojos.
+Parece que las palabras niño y pescado no se llevan bien, pero es necesario que lo coman y forme parte de sus menús semanales, por eso os recomiendo este arroz meloso marinero con un punto intermedio entre el caldoso y el seco.
+Una receta sencilla y muy sabrosa con la que quedaremos como reyes un domingo o en una ocasión especial.
+Lo hemos cocinado con un arroz SOS redondo que nunca nos falla. El resultado es espectacular porque la mezcla de sabores es realmente deliciosa. Ya veréis como en casa no dejan ni un grano de arroz en el plato.
+</introduccion>
+<preparacion>
+<titulo>
+Antes de cocinar. Hidratar el pimiento choricero
+</titulo>
+<paso>El pimiento choricero va a dar un punto y aroma delicioso al arroz. Hay dos posibilidades, o bien comprar ya la pulpa (la venden en todos los supermercados) o hidratar los pimientos en casa.</paso>
+<paso>En caso de la primera opción, es sencillo, sólo abrir el bote. Pero para la segunda, para poder retirar la pulpa lo introducimos en un recipiente con agua durante una hora antes de cocinarlo.</paso>
+<paso>Cuando el pimiento choricero lleva al menos una hora en el agua, lo abrimos, desechamos las pepitas y con la ayuda de una cuchara retiramos la pulpa raspando la piel. Al estar reblandecido ésta saldrá perfectamente. Reservamos.</paso>
+<paso>En cuanto a los tomates hay que sacarles la piel y picarlos. Para eso los escaldamos en agua y los cortamos en trozos muy pequeños. Así al cocinarlos quedan totalmente desechos.</paso>
+</preparacion>
+<preparacion>
+<titulo>
+Preparación del arroz con merluza
+</titulo>
+<paso>Lo primero que hacemos es revisar la merluza. No queremos ninguna espina. Lo mejor es comprar un lomo de merluza grande fresco o lomos de merluza congelado (que ya viene sin espinas). Si es fresco, pedir al pescadero que lo limpie para la receta.</paso>
+<paso>En casa sólo tenemos que desmigar, es decir separar la merluza en hilos (también podéis cortar en trocitos).</paso>
+<paso>En una cazuela rehogamos la merluza en un poco de aceite de oliva virgen extra y una vez dorado (3- 5 minutos), reservamos.</paso>
+<paso>Mientras tanto pelamos y cortamos las patatas. Asimismo cortamos en tiras el pimiento rojo y el pimiento verde.</paso>
+<paso>A continuación sofreímos en el mismo aceite de la merluza, las patatas cortadas en trozos pequeños junto con los pimientos. Lo dejamos pochar 10 minutos a fuego lento.</paso>
+<paso>Una vez doradas las patatas y los pimientos, echamos la pulpa extraída del pimiento choricero.</paso>
+<paso>Mezclamos y añadimos el pimentón (1/4 de cucharita de pimentón dulce). Removemos y echamos el tomate picado para refrescar el guiso.</paso>
+<paso>Dejamos que todo rehogue a fuego lento, es importante que no apuremos. El secreto de un buen puchero es esperar a que la salsa esté ligada antes de añadir el resto.</paso>
+<paso>En ese momento echamos la merluza rehogada, la hoja de laurel, unas cucharadas de agua y un majado de ajo y perejil. Lo dejamos reducir unos 10 minutos.</paso>
+</preparacion>
+<preparacion>
+<titulo>
+Cocción y presentación final del arroz con merluza
+</titulo>
+<paso>Cuando todos los ingredientes estén cocinados incorporamos el caldo y el agua (tres partes por cada parte de arroz).</paso>
+<paso>Lo removemos hasta bullir y lo dejamos cocer unos 5 minutos.</paso>
+<paso>Entonces echamos el arroz redondo. Removemos todo con suavidad para que se impregne bien del guiso y absorba el sabor.</paso>
+<paso>Agregamos el azafrán y corregimos de sal si es necesario.</paso>
+<paso>Subimos la temperatura hasta que empiece a hervir y en ese momento la bajamos para que se haga a fuego lento (15 minutos aproximadamente).</paso>
+<paso>Si notamos que el arroz está un poco duro y nos quedamos sin líquido siempre podemos añadir más agua. Teniendo en cuenta que el punto final no debe ser muy seco ni demasiado caldoso.</paso>
+<paso>Para acabar, apartamos del fuego y lo dejamos reposar 10 minutos con la tapa puesta.</paso>
+</preparacion>
+</plato>
+</platos>

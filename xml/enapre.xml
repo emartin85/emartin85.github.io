@@ -1,0 +1,61 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="platos.xsl"?>
+<platos xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" nombre="Entrante" xsi:noNamespaceSchemaLocation="schema.xsd">
+<plato id="Aprendiz">
+<nombre>Croquetas de queso</nombre>
+<imagen>../imagenes/platos/croqueso.jpg</imagen>
+<video>https://www.youtube.com/embed/Vtjr9iXCU10</video>
+<musica>../audio/3.mp3</musica>
+<ingredientes>
+<titulo>
+Ingredientes para Croquetas de queso
+</titulo>
+<ingrediente>350 ml. leche entera</ingrediente>
+<ingrediente>50 g. de harina de trigo común 00</ingrediente>
+<ingrediente>35 g. de mantequilla</ingrediente>
+<ingrediente>50 g. de queso Roquefort (o mezcla de tus quesos preferidos)</ingrediente>
+<ingrediente>1 huevo</ingrediente>
+<ingrediente>Sal y pimienta negra molida (al gusto de cada casa)</ingrediente>
+<ingrediente>Para rebozar: harina, huevo y pan rallado</ingrediente>
+<ingrediente>Para la fritura: aceite suave para freír, oliva virgen extra o girasol</ingrediente>
+</ingredientes>
+<introduccion>
+Puede que para muchos sea una sorpresa saber que el origen de las croquetas no es español si no francés.
+La palabra croqueta, proviene de la voz francesa croquer (crujir) y de su diminutivo croquette.
+El primer documento escrito que se conoce donde aparece nombrada esta técnica culinaria, es en 1691, donde el cocinero del por entonces rey Luís XIV, deja la receta por escrito y para la posteridad.
+Se trataban de unas croquetas de trufa, mollejas y crema de queso, una delicia por cierto.
+En el blog tenemos una gran variedad de croquetas en nuestras recetas de aperitivos, perfectas como un primero o incluso como una cena de rechupete. Con toda esta muestra de croquetas casi podemos decir que hemos mejorado la receta francesa.
+Se trata de un plato que los españoles hemos sabido llevar mucho más allá que de una simple receta de aprovechamiento. Transformándose en todo un culto culinario en nuestro país.
+Los ingredientes son tan variados como platos que se puedan preparar en cocina, a partir de ellos combinándolos con una buena salsa bechamel, podremos formar croquetas de todo tipo de tamaños y formas.
+Una receta de croquetas francesa por excelencia, croquetas de queso, en esta caso roquefort. Tendremos que probar la proporción de queso que más se adapte a nuestro gusto.
+</introduccion>
+<preparacion>
+<titulo>
+Preparación de la masa de las croquetas de queso
+</titulo>
+<paso>En una sartén o cazuela ancha calentamos la mantequilla hasta que se haya derretido.</paso>
+<paso>Añadimos la harina y, con la ayuda de unas varillas, removemos hasta que veamos que se haya integrado con toda la grasa de la mantequilla. Sin parar de remover y, a fuego medio, cocinamos la harina durante 1 o 2 minutos.</paso>
+<paso>Vamos incorporando la leche a la cazuela, primero en pequeñas cantidades, integrándola bien con la harina antes de añadir más. Este paso de ir añadiendo la leche poco a poco. Es fundamental ya que así nos aseguraremos de que la crema no tendrá grumos.</paso>
+<paso>Sin parar de remover integramos toda la leche y salpimentamos al gusto.</paso>
+<paso>Seguimos cocinando la salsa, a temperatura media baja, durante unos 5 minutos, sin parar de remover.</paso>
+<paso>Añadimos el queso desmigado y seguimos removiendo hasta que se haya disuelto en la crema. Apagamos el fuego y dejamos que la salsa se temple ligeramente antes de añadir el huevo.</paso>
+<paso>Incorporamos el huevo y mezclamos bien para que se integre en la salsa. Volvemos a poner al fuego a temperatura media/baja durante unos minutos para que se cocine el huevo ya mezclado sin cuajarse.</paso>
+<paso>Retiramos la crema del fuego y la vertemos en una fuente.</paso>
+<paso>Dejamos que se enfríe la mezcla y la tapamos con papel transparente.</paso>
+<paso>Guardamos la crema en el frigo, lo mejor será que la dejemos de un día para otro, para que se solidifique. Así será más manejable para poder preparar las croquetas.</paso>
+</preparacion>
+<preparacion>
+<titulo>
+Rebozado, fritura y presentación final de las croquetas de queso
+</titulo>
+<paso>Con la crema ya fría preparamos 3 boles con harina, huevo y pan rallado, respectivamente.</paso>
+<paso>Formamos las croquetas con las manos, dándoles la forma que más nos guste, la ovalada y alargada más tradicional, o redonditas como he hecho en esta ocasión.</paso>
+<paso>Pasamos las bolitas por harina, huevo y pan rallado, en este orden y las vamos reservando hasta que las tengamos todas listas.</paso>
+<paso>En este punto podemos hacer dos cosas. Freírlas para disfrutarlas en el momento o congelarlas para poder hacerlo cuando queramos.</paso>
+<paso>Admiten la congelación perfectamente. Sólo tendremos que retirarlas del frigo y ponerlas directamente a freír. Sin descongelar, con el aceite bien caliente, cuando queramos prepararlas.</paso>
+<paso>En una cazuela de paredes altas, calentamos abundante aceite suave, para freír.</paso>
+<paso>Vamos cocinando las croquetas a fuego alto, regulando la temperatura para evitar que se nos quemen.</paso>
+<paso>Retiramos a un plato con papel absorbente, para eliminar el exceso de aceite. Servimos directamente, recién hechas.</paso>
+</preparacion>
+</plato>
+</platos>

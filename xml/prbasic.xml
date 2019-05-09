@@ -1,0 +1,54 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="platos.xsl"?>
+<platos xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" nombre="Principal" xsi:noNamespaceSchemaLocation="schema.xsd">
+<plato id="Basico">
+<nombre>Cordero al horno</nombre>
+<imagen>../imagenes/platos/cordero.jpg</imagen>
+<video>https://www.youtube.com/embed/Rihst-9UGww</video>
+<musica>../audio/5.mp3</musica>
+<ingredientes>
+<titulo>
+Ingredientes para Cómo preparar cordero al horno o asado
+</titulo>
+<ingrediente>1 pierna de cordero “pascual” de aprox. 1,5 Kg.</ingrediente>
+<ingrediente>1 vaso de agua (150 ml)</ingrediente>
+<ingrediente>Sal (al gusto)</ingrediente>
+<ingrediente>Guarnición: lechuga, tomate y cebolla</ingrediente>
+</ingredientes>
+<introduccion>
+Un plato que es todo un clásico en los menús de cualquier día festivo, aunque también la podemos preparar en cualquier otro momento del año.
+Una receta muy sencilla que nos saldrá perfecta siempre y cuando cumplamos ciertas reglas de oro imprescindibles.
+Debemos escoger una pieza de carne de calidad y paciencia, ya que la preparación y el horneado requieren al menos 2 horas de nuestro tiempo. Así prepara el asado mi madre para cualquier ocasión “especial” y fiestas de guardar, os aseguro sale de rechupete.
+También tenéis otras opciones para preparar distintos tipos de cordero, una de las recetas que más triunfa es el cordero guisado con patatas.
+Es el más famoso de los guisos en la mayoría de las fiestas de pueblo que conozco. Aunque tanto el cochinillo al estilo segoviano, la paletilla de cordero asado a las finas hierbas como el cabrito al horno son una de esas comidas o asados familiares de domingo para todo el año.
+Como vamos a cocinar la pierna entera no necesitamos que el carnicero le haga cortes con el machete. De esta manera luego nos resultará más jugosa y no nos quedará seca.
+Prepararemos la pierna de cordero tal y como se hace en un auténtico asador castellano, salvando las distancias ya que no contamos en casa con un horno de leña.
+Un experto asador no utiliza ni muchos ingredientes ni sofisticados aderezos, bastará con un poco de agua para el horneado y sal para la carne.
+Además intentaremos emular las condiciones del horno de leña en nuestra cocina. No me digáis que no es una receta para chuparse los dedos, ya no tenéis excusas para no cocinar en casa.
+</introduccion>
+<preparacion>
+<titulo>
+Preparación de la pierna de cordero
+</titulo>
+<paso>Lo primero que haremos será precalentar el horno a una temperatura alta, unos 250º C. Para que al meter el cordero no tenga que cocinarse partiendo de un entorno frío. Calor arriba y abajo.</paso>
+<paso>Además vamos a poner una vasija o recipiente que aguante bien el calor del horno lleno de agua. Así vamos a conseguir humedad en el horno, que le irá genial al cordero.</paso>
+<paso>Salamos bien la carne por ambos lados. Colocamos la pierna en una cazuela de barro o cerámica, con la parte interior hacia arriba.</paso>
+<paso>Aunque os sobresalga un poco no os preocupéis ya que durante el horneado menguará de tamaño.</paso>
+<paso>Si no disponéis de este recipiente cabría la posibilidad de cocinarlo sobre la bandeja metálica del horno. Aunque en este caso te recomiendo poner un poco de manteca en el agua. De este modo se evaporará más lentamente y no tendremos que reponerla.</paso>
+<paso>Bajamos la temperatura del horno a 160º C, recordad que debe tener calor arriba y abajo sin aire.</paso>
+<paso>Vertemos el vaso de agua en la base de la cazuela y metemos en el horno. La carne irá soltando su jugo sobre el agua e irá formándose poco a poco la salsa.</paso>
+</preparacion>
+<preparacion>
+<titulo>
+Horneado final y presentación del cordero al horno
+</titulo>
+<paso>Durante el proceso podremos apreciar cómo va goteando la carne. Para este tamaño y peso hornearemos en total 1 hora y 30 minutos. Recordad que la pieza pesa 1,5 kilos. Horneamos con la parte interior de la pierna hacia arriba durante 1 hora y 10 minutos.</paso>
+<paso>En esa 1 hora y media debemos hidratar la carne unas 6 veces, aproximadamente cada 18-20 minutos.</paso>
+<paso>Regamos la carne con la salsa que se va formando en la cazuela. Los últimos 20 minutos de horneado damos la vuelta a la pierna y colocamos la parte exterior de la pieza hacia arriba. Así conseguiremos un cordero con una pinta impresionante.</paso>
+<paso>Subimos la temperatura a 180º C y regamos con la salsa.</paso>
+<paso>Con este método conseguiremos que nos quede crujiente la piel de la pierna, mientras que el interior quedará bien jugoso. Finalizado el tiempo total retiramos del horno y servimos en la mesa.</paso>
+<paso>Para el trinchado cogeremos la pierna (con un trapo) por la parte del hueso que sobresale y con un cuchillo bien afilado vamos retirando porciones de carne siguiendo la forma de la pierna, hasta que finalmente llegaremos al hueso.</paso>
+<paso>Acompañamos el cordero con una guarnición de lechuga, tomate y cebolla, una ensalada sencilla para refrescar.</paso>
+</preparacion>
+</plato>
+</platos>

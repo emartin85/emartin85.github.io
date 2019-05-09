@@ -1,0 +1,73 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="platos.xsl"?>
+<platos xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" nombre="Entrante" xsi:noNamespaceSchemaLocation="schema.xsd">
+<plato id="Avanzado">
+<nombre>Bombas de patata y carne con salsa barbacoa</nombre>
+<imagen>../imagenes/platos/bomba.jpg</imagen>
+<video>https://www.youtube.com/embed/LnfFVvpW6lY</video>
+<musica>../audio/4.mp3</musica>
+<ingredientes>
+<titulo>
+Ingredientes para Bombas de patata y carne con salsa barbacoa
+</titulo>
+<ingrediente>1 Kg de patatas gallegas medianas</ingrediente>
+<ingrediente>250 g. de carne picada mixta (mitad cerdo, mitad ternera)</ingrediente>
+<ingrediente>1 cebolla mediana</ingrediente>
+<ingrediente>1 tomate pequeño</ingrediente>
+<ingrediente>1 diente de ajo grande</ingrediente>
+<ingrediente>6 cucharadas de salsa de tomate casero</ingrediente>
+<ingrediente>Sal y pimienta negra recién molida (al gusto)</ingrediente>
+<ingrediente>Para el rebozado: 2 huevos, 100 g. harina y 100 g. pan rallado</ingrediente>
+<ingrediente>Aceite de oliva virgen extra (para freír)</ingrediente>
+<ingrediente>Opcional: ½ guindilla o Salsa tabasco (al gusto)</ingrediente>
+</ingredientes>
+<introduccion>
+Esta es una receta de carne todoterreno. Os puedo asegurar que le va a gustar a todos los paladares.
+En España la podríamos llamar “patatas rellenas de carne” y así os la encontraréis en locales donde las sirvan de tapa.
+Sin embargo en Latinoamérica se les llama “Bombas de carne” o “Bombas de papa”. Se preparan en la mayoría de países, aunque las que más conozco son las de Colombia, Venezuela y Argentina.
+No es de extrañar al ser la patata un ingrediente muy presente en la gastronomía de toda Latinoamérica. Yo las conocí como “bombas de carne” ya hace bastantes años en mi ciudad natal Ourense.
+Allí las preparan en un bar de la zona dos viños cuyos propietarios son venezolanos y las servían junto a otros manjares de ese país, como pueden ser las arepas y los tequeños de queso.
+El apelativo de “bomba” viene porque al relleno de carne se le suele añadir un toque picante. A la hora de comerlas, en casa las solemos acompañar con alioli clásico o con salsa barbacoa de Salsas Choví que tanto nos gusta en casa, tal como recomiendo en la receta de hoy.
+A veces le ponemos un toque picante con la salsa brava para patatas, pero siempre al gusto de cada casa. 
+</introduccion>
+<preparacion>
+<titulo>
+ Preparación de las bombas de carne
+</titulo>
+<paso>Comenzamos por lo que nos llevará más tiempo, cocer las patatas. Escoged patatas de tamaño similar para que se nos cocinen al mismo tiempo y estén todas en el mismo punto.</paso>
+<paso>Las lavamos y las ponemos a cocer con la piel, en abundante agua (que las cubra) con sal.</paso>
+<paso>He utilizado patatas de tamaño mediano, por lo que las he cocido durante 25 minutos. El tiempo en cocina no es un magnitud al 100% exacta, en este caso dependemos de la dureza de la patatas y del agua.</paso>
+<paso>De todas maneras, comprobamos con un pincho o tenedor si están listas. Cuando podamos introducirlo y sacarlo sin dificultad, significa que las patatas están ya cocidas.</paso>
+<paso>Las retiramos de la cazuela y las dejamos atemperar en una fuente, con separación entre ellas. Así se irán enfriando más rápidamente.</paso>
+<paso>Luego trabajaremos con ellas cuando estén templadas, de modo que no quemen y podamos manejarlas sin problema. Mientras se enfrían las patatas preparamos el relleno.</paso>
+<paso>Picamos la cebolla y el tomate en “brunoise” pequeña y el diente de ajo bien finito. En una sartén amplia pochamos la cebolla con un poco de aceite a fuego medio durante 10 minutos, teniendo cuidado de que no se nos queme.</paso>
+</preparacion>
+<preparacion>
+<titulo>
+Cocción de la carne para las patatas rellenas
+</titulo>
+<paso>Añadimos el ajo, mezclamos y sofreímos un par de minutos. Añadimos el tomate picado y removemos. Salamos al gusto y seguimos pochando todo otros 10 minutos.</paso>
+<paso>Cuanto más despacio preparemos el relleno más rico quedará. Salpimentamos la carne y la echamos en la sartén. Con una cuchara de madera ayudamos a que se desmenuce bien.</paso>
+<paso>Añadimos el toque de picante que puede ser media guindilla muy bien picadita o unas gotas de tabasco al gusto.</paso>
+<paso>Para que la carne no nos quede muy seca echamos 6 cucharadas soperas de salsa de tomate y mezclamos bien con el resto.</paso>
+<paso>Bajamos el fuego y dejamos que se cocine 10-15 minutos lentamente. Retiramos del fuego y reservamos.</paso>
+<paso>Una vez templadas las patatas las pelamos fácilmente y las convertimos en puré con la ayuda de un tenedor o similar. Queremos conseguir una masa homogénea y sin grumos.</paso>
+<paso>Para conseguir una textura adecuada no dejéis que lleguen a enfriarse del todo, si no será una tarea harto complicada.</paso>
+</preparacion>
+<preparacion>
+<titulo>
+Fritura y presentación final de las patatas rellenas
+</titulo>
+<paso>Para el montaje de las “bombas” he utilizado un pequeño truco de madre. Poner un poco de papel aluminio para trabajar sobre él.</paso>
+<paso>El tamaño final será como el de una pelota de tenis, podéis hacerlas más pequeñas pero os darán más trabajo.</paso>
+<paso>Ponemos una lámina de papel de aluminio, cogemos un poco de puré de patata y lo aplastamos con las manos. Hasta dejarlo de un grosor de 1,5 a 2 centímetros.</paso>
+<paso>Colocamos en el centro un par de cucharadas de relleno (que estará templado). Subimos un poco de los lados el papel para comenzar a cerrar la bola.</paso>
+<paso>Retiramos del aluminio, colocamos sobre la palma de la mano. Vamos cerrando con cuidado, dejando el relleno bien en el centro. Con la pelota hecha, damos forma de esfera con las manos y reservamos. Repetimos el proceso con el resto.</paso>
+<paso>Para el rebozado podemos utilizar dos versiones. En algunos países mezclan los 2 huevos batidos con 3 cucharadas de harina, removiendo bien hasta que no queden grumos.</paso>
+<paso>Para probar he rebozado una bomba con este método y el resto con el más habitual en casa, usando además pan rallado.</paso>
+<paso>Batimos los huevos, y disponemos la harina y el pan rallado en platos individuales.</paso>
+<paso>En una sartén alta vertemos abundante aceite de oliva y calentamos. Cuando alcance temperatura, pasamos las bombas primero por harina, luego huevo y finalmente pan rallado.</paso>
+<paso>Las freímos de una en una en aceite bien caliente por todas partes. Las movemos regularmente para que no se nos queme el rebozado.</paso>
+</preparacion>
+</plato>
+</platos>

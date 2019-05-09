@@ -1,0 +1,113 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Platos Caseros</title>
+	<meta charset="utf-8" />
+	<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+	<link rel="stylesheet" type="text/css" href="./css/proyecto.css" />
+</head>
+<body>
+	<aside>
+		<ul>
+			<li class="dropvertical">
+				<a href="./index.html" class="botonvertical">Inicio</a>
+			</li>
+			<li class="dropvertical">
+				<a href="#" class="botonvertical">Entrantes</a>
+				<div class="contenidovertical">
+					<a href="./xml/enbasic.xml">Entrante Básico</a>
+					<a href="./xml/enapre.xml">Entrante Aprendiz</a>
+					<a href="./xml/enavan.xml">Entrante Avanzado</a>
+				</div>
+			</li>
+			<li class="dropvertical">
+				<a href="#" class="botonvertical">Platos Principales</a>
+				<div class="contenidovertical">
+					<a href="./xml/prbasic.xml">Principal Básico</a>
+					<a href="./xml/prapre.xml">Principal Aprendiz</a>
+					<a href="./xml/pravan.xml">Principal Avanzado</a>
+				</div>
+			</li>
+			<li class="dropvertical">
+				<a href="#" class="botonvertical">Postres</a>
+				<div class="contenidovertical">
+					<a href="./xml/pobasic.xml">Postre Básico</a>
+					<a href="./xml/poapre.xml">Postre Aprendiz</a>
+					<a href="./xml/poavan.xml">Postre Avanzado</a>
+				</div>
+			</li>
+			<li class="dropvertical">
+				<a href="./html/contacto.html" class="botonvertical">Contáctanos</a>
+			</li>
+		</ul>
+	</aside>
+	<aside id="cajaudio">
+		<ul>
+			<li id="despaud">Música</li>
+		</ul>
+		<button class="controlaudio" id="controlplay" type="button">Reproducir</button>
+		<button class="controlaudio" id="controlpausa" type="button">Parar</button>
+	</aside>
+	<header>
+		<img id="slide" src="./imagenes/slide/slide1.jpg">
+	</header>
+	<nav>
+		<ul>
+			<li class="drophorizontal">
+				<a href="./index.html" class="botonhorizontal">Inicio</a>
+			</li>
+			<li class="drophorizontal">
+				<a href="#" class="botonhorizontal">Entrantes</a>
+				<div class="contenidohorizontal">
+					<a href="./xml/enbasic.xml">Entrante Básico</a>
+					<a href="./xml/enapre.xml">Entrante Aprendiz</a>
+					<a href="./xml/enavan.xml">Entrante Avanzado</a>
+				</div>
+			</li>
+			<li class="drophorizontal">
+				<a href="#" class="botonhorizontal">Platos Principales</a>
+				<div class="contenidohorizontal">
+					<a href="./xml/prbasic.xml">Principal Básico</a>
+					<a href="./xml/prapre.xml">Principal Aprendiz</a>
+					<a href="./xml/pravan.xml">Principal Avanzado</a>
+				</div>
+			</li>
+			<li class="drophorizontal">
+				<a href="#" class="botonhorizontal">Postres</a>
+				<div class="contenidohorizontal">
+					<a href="./xml/pobasic.xml">Postre Básico</a>
+					<a href="./xml/poapre.xml">Postre Aprendiz</a>
+					<a href="./xml/poavan.xml">Postre Avanzado</a>
+				</div>
+			</li>
+			<li class="drophorizontal">
+				<a href="./html/contacto.html" class="botonhorizontal">Contáctanos</a>
+			</li>
+		</ul>
+	</nav>
+	<section>
+		<h1>Platos Caseros</h1>
+		<article>
+			<img id="imart1" src="./imagenes/articulo1.jpg">
+			<h2>¿Qué es Platos Caseros?</h2>
+			<p>
+				Platos Caseros, a parte de ser un proyecto, es una muy pequeña idea que he querido plasmar para crear una web sencilla de navegar, agradable de visualizar y con la posibilidad de en un futuro modificar o intercambiar los platos a mostrar de una manera rápida y sin complicaciones.
+			</p>
+		</article>
+		<article>
+			<img id="imart2" src="./imagenes/articulo2.jpg">
+			<h2>Cambios en la página</h2>
+			<p>
+				No se trata de un proyecto cerrado, ya que la idea es que con relativa facilidad, se puedan añadir o rotar los platos con un cambio del archivo xml, sin la necesidad de modificar absolutamente nada de ningún otro archivo. Así por ejemplo, para alguien que no tenga ningún conocimiento de html, css o javascript, se le podría suministrar diferentes xml para que los pueda intercambiar y producirse los cambios en la web.
+			</p>
+		</article>
+	</section>
+	<footer>
+		<h2>Proyecto de Eduardo Martín Carrasco - 1º ASIR - IES Maria de Zayas y Sotomayor - 2019</h2>
+	</footer>
+	<audio id="musica">
+  		<source src="./audio/1.mp3" type="audio/mpeg">
+	</audio>
+	<script src="./js/index.js"></script>
+</body>
+</html>

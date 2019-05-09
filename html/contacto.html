@@ -1,0 +1,131 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Platos Caseros</title>
+	<meta charset="utf-8" />
+	<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+	<link rel="stylesheet" type="text/css" href="../css/contacto.css" />
+</head>
+<body>
+	<aside>
+		<ul>
+			<li class="dropvertical">
+				<a href="../index.html" class="botonvertical">Inicio</a>
+			</li>
+			<li class="dropvertical">
+				<a href="#" class="botonvertical">Entrantes</a>
+				<div class="contenidovertical">
+					<a href="../xml/enbasic.xml">Entrante Básico</a>
+					<a href="../xml/enapre.xml">Entrante Aprendiz</a>
+					<a href="../xml/enavan.xml">Entrante Avanzado</a>
+				</div>
+			</li>
+			<li class="dropvertical">
+				<a href="#" class="botonvertical">Platos Principales</a>
+				<div class="contenidovertical">
+					<a href="../xml/prbasic.xml">Principal Básico</a>
+					<a href="../xml/prapre.xml">Principal Aprendiz</a>
+					<a href="../xml/pravan.xml">Principal Avanzado</a>
+				</div>
+			</li>
+			<li class="dropvertical">
+				<a href="#" class="botonvertical">Postres</a>
+				<div class="contenidovertical">
+					<a href="../xml/pobasic.xml">Postre Básico</a>
+					<a href="../xml/poapre.xml">Postre Aprendiz</a>
+					<a href="../xml/poavan.xml">Postre Avanzado</a>
+				</div>
+			</li>
+			<li class="dropvertical">
+				<a href="contacto.html" class="botonvertical">Contáctanos</a>
+			</li>
+		</ul>
+	</aside>
+	<aside id="cajaudio">
+		<ul>
+			<li id="despaud">Música</li>
+		</ul>
+		<button class="controlaudio" id="controlplay" type="button">Reproducir</button>
+		<button class="controlaudio" id="controlpausa" type="button">Parar</button>
+	</aside>
+	<header>
+		<img id="slide" src="./imagenes/slide/slide1.jpg">
+	</header>
+	<nav>
+		<ul>
+			<li class="drophorizontal">
+				<a href="../index.html" class="botonhorizontal">Inicio</a>
+			</li>
+			<li class="drophorizontal">
+				<a href="#" class="botonhorizontal">Entrantes</a>
+				<div class="contenidohorizontal">
+					<a href="../xml/enbasic.xml">Entrante Básico</a>
+					<a href="../xml/enapre.xml">Entrante Aprendiz</a>
+					<a href="../xml/enavan.xml">Entrante Avanzado</a>
+				</div>
+			</li>
+			<li class="drophorizontal">
+				<a href="#" class="botonhorizontal">Platos Principales</a>
+				<div class="contenidohorizontal">
+					<a href="../xml/prbasic.xml">Principal Básico</a>
+					<a href="../xml/prapre.xml">Principal Aprendiz</a>
+					<a href="../xml/pravan.xml">Principal Avanzado</a>
+				</div>
+			</li>
+			<li class="drophorizontal">
+				<a href="#" class="botonhorizontal">Postres</a>
+				<div class="contenidohorizontal">
+					<a href="../xml/pobasic.xml">Postre Básico</a>
+					<a href="../xml/poapre.xml">Postre Aprendiz</a>
+					<a href="../xml/poavan.xml">Postre Avanzado</a>
+				</div>
+			</li>
+			<li class="drophorizontal">
+				<a href="contacto.html" class="botonhorizontal">Contáctanos</a>
+			</li>
+		</ul>
+	</nav>
+	<section>
+		<h1>Información de Contacto</h1>
+		<article>
+			<h2>Si quieres dejar tu opinión...</h2>
+			<form method="post">
+				<fieldset>
+					<legend>Formulario de opiniones</legend>
+					Nombre<br>
+					<input id="nombre" type="text" name="nombre" required><br>
+					Correo electrónico<br>
+  					<input type="email" name="email" required><br>
+					Asunto<br>
+					<input id="asunto" type="text" name="asunto" required><br>
+					Descripción del Asunto<br>
+					<textarea cols="40" rows="10"></textarea><br>
+					Oficina<br>
+					<input type="radio" name="oficina" value="madrid" required> Madrid<br>
+					<input type="radio" name="oficina" value="londres" required> Londres<br><br>
+					<input type="checkbox" name="opinion"> Si la consulta es sobre las recetas, marque la casilla.<br><br>
+					<input type="submit" value="Enviar">
+				</fieldset>
+			</form>
+			<div class="flip-card">
+  				<div class="flip-card-inner">
+    				<div class="flip-card-front">
+      					<img id="presi" src="../imagenes/presi.png" alt="presi">
+    				</div>
+    				<div class="flip-card-back">
+				      	<h1>Stein Von Woof</h1><br><br>
+				     	<p>Presidente y Mascota</p> 
+				    </div>
+ 				</div>
+			</div>
+		</article>
+	</section>
+	<footer>
+		<h2>Proyecto de Eduardo Martín Carrasco - 1º ASIR - IES Maria de Zayas y Sotomayor - 2019</h2>
+	</footer>
+	<audio id="musica">
+  		<source src="../audio/1.mp3" type="audio/mpeg">
+	</audio>
+	<script src="../js/contenido.js"></script>
+</body>
+</html>

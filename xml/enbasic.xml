@@ -1,0 +1,65 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="platos.xsl"?>
+<platos xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" nombre="Entrantes" xsi:noNamespaceSchemaLocation="schema.xsd">
+<plato id="Basico">
+<nombre>Patatas alioli</nombre>
+<imagen>../imagenes/platos/alioli.jpg</imagen>
+<video>https://www.youtube.com/embed/DX4U9u9u930</video>
+<musica>../audio/2.mp3</musica>
+<ingredientes>
+<titulo>
+Ingredientes para Patatas alioli
+</titulo>
+<ingrediente>5 patatas medianas especiales para cocer (1 por persona, más una de regalo)</ingrediente>
+<ingrediente>Sal (un buen puñado) para la cocción de las patatas</ingrediente>
+<ingrediente>Agua para la cocción y un chorrito de vinagre de vino</ingrediente>
+<ingrediente>Para la opción del alioli clásico: 6 dientes de ajo grandes de tamaño similar</ingrediente>
+<ingrediente>350 ml de aceite de oliva virgen extra (se puede sustituir con aceite de oliva suave)</ingrediente>
+<ingrediente>Una pizca de sal gorda</ingrediente>
+<ingrediente>1 cucharada de zumo de limón (opcional)</ingrediente>
+<ingrediente>Un poco de perejil fresco bien picado para mezclar</ingrediente>
+</ingredientes>
+<introduccion>
+Si vais a algún bar de España, seguro que encontraréis esta tapa fácil, sabrosa y económica, nos referimos a las famosas patatas al alioli.
+Es un clásico aperitivo de cortesía que nos sirven en muchos bares al pedir una cerveza o un vino. Si sois unos apasionados de la salsa alioli las patatas le van que ni pintadas.
+Rivalizan en Madrid directamente con las patatas bravas y puedo asegurar que las patatas alioli de la mayoría de los bares rara vez es alioli de verdad, sino más bien mayonesa con ajo. Cuando probéis esta receta en casa os aseguro que vais a alucinar.
+Podéis preparar vuestras patatas al alioli en casa sin problema, pues es una tapa muy fácil de preparar, lo fundamental es la calidad de los ingredientes, son pocos y baratos, pero deben ser buenos.
+Las patatas que sean especiales para cocer, y el alioli lo podéis hacer casero o apostar por el clásico alioli de Salsas Choví. Os contamos la mejor forma de hacerlas y los trucos para que estén incluso mejor que en vuestro bar de siempre.
+</introduccion>
+<preparacion>
+<titulo>
+Preparación de las patatas. Cocción
+</titulo>
+<paso>Lavamos las patatas antes de incorporarlas a una cazuela con agua ligeramente salada.</paso>
+<paso>Añadimos un chorrito de vinagre pues ayuda a que no reviente la piel. Aunque lo fundamenta es no pasarse en la cocción.</paso>
+<paso>Cocemos las patatas sin pelar durante unos 25-30 minutos, hasta que estén tiernas. Las podéis pinchar con un tenedor para comprobar el punto de cocción.</paso>
+<paso>Una vez cocidas las patatas, les cambiamos el agua caliente por agua fría y esperamos a que se templen. Es importante que se templen antes de proceder a retirarles la piel.</paso>
+<paso>Después las pelamos y las cortamos en trozos irregulares grandes, dejándolas en un bol para que se enfríen bien.</paso>
+<paso>Podemos preparar el alioli o all-i-oli casero siguiendo nuestra receta tradicional y haciéndolo solo con ajo y aceite, sin huevo y en mortero. Otra opción es preparar una mayonesa con un toque de ajo. Debe de quedar ligera para que pueda mezclar bien con las patatas.</paso>
+<paso>Por último, también una opción válida, es comprar un alioli de confianza, el de Salsas Choví, os aseguro que es de nota.</paso>
+</preparacion>
+<preparacion>
+<titulo>
+Preparación del alioli casero
+</titulo>
+<paso>Para hacer esta salsa necesitamos un mortero (imprescindible que sea de mármol o loza) para poder emulsionar el ajo. Se compone de dientes de ajo y sal gorda que se machacan hasta conseguir una pasta.</paso>
+<paso>Pelamos los dientes de ajo y los machamos en el mortero mezclados con una pizca de sal gorda. Deben picarse bien los ajos con una maza de madera hasta lograr una fina pasta.</paso>
+<paso>Seguidamente con una mano se va vertiendo lentamente el aceite de oliva virgen extra en el mortero. Siempre de forma que caiga un fino hilillo fino, sin dejar de mover.</paso>
+<paso>Con la otra mano se debe remover la mezcla con la maza sobre el mortero sin parar. Siempre en el mismo sentido de giro.</paso>
+<paso>Poco a poco el aceite de oliva irá ligando con los ajos e irá aumentando de volumen progresivamente.</paso>
+<paso>Al final quedará como una crema espesa que permanece compacta aun cuando inclinamos el mortero.</paso>
+<paso>El aceite de oliva lo añadimos muy poco a poco ligándolo bien antes de seguir echando más. Así conseguimos que se logre la pasta deseada.</paso>
+</preparacion>
+<preparacion>
+<titulo>
+Presentación final de las patatas al alioli
+</titulo>
+<paso>Añadimos la salsa alioli y el perejil picadito. Reservamos un poquito más para espolvorear por encima en el momento de servir.</paso>
+<paso>Mezclamos suavemente dando movimientos envolventes y procurando que no se nos partan.</paso>
+<paso>Debemos tener cuidado de no romper ni machacar las patatas durante esta operación.</paso>
+<paso>Es mejor ir añadiendo el alioli poco a poco, para no pasarnos con la cantidad. Deben de quedar unas patatas bien impregnadas del alioli y bien distribuido.</paso>
+<paso>Refrigeramos las patatas alioli, cubiertas con papel transparente durante 30 minutos antes de servir.</paso>
+<paso>Pasamos las patatas con el alioli a una fuente de servir, ponemos un poquillo más de perejil picado y a comer.</paso>
+</preparacion>
+</plato>
+</platos>

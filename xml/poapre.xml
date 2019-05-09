@@ -1,0 +1,72 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="platos.xsl"?>
+<platos xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" nombre="Postres" xsi:noNamespaceSchemaLocation="schema.xsd">
+<plato id="Aprendiz">
+<nombre>Bica mantecada de Trives</nombre>
+<imagen>../imagenes/platos/bica.jpg</imagen>
+<video>https://www.youtube.com/embed/51sg1AjHH5s</video>
+<musica>../audio/9.mp3</musica>
+<ingredientes>
+<titulo>
+Ingredientes para Bica mantecada de Trives
+</titulo>
+<ingrediente>250 g. de masa de pan (los 4 ingredientes siguientes)</ingrediente>
+<ingrediente>Un vaso de agua tibia, 110 ml.</ingrediente>
+<ingrediente>2 g. levadura fresca o 4 g. levadura de panadería en polvo</ingrediente>
+<ingrediente>Un pellizco de sal (5 g. de sal)</ingrediente>
+<ingrediente>200 g. harina de trigo de fuerza</ingrediente>
+<ingrediente>Para la bica: 6 huevos M</ingrediente>
+<ingrediente>200 g. de manteca de vaca (ya cocida) Se podría sustituir por mantequilla</ingrediente>
+<ingrediente>250 g. de harina de trigo (mejor de repostería)</ingrediente>
+<ingrediente>450 g. de azúcar + 50 g. para la cobertura</ingrediente>
+<ingrediente>Canela en polvo</ingrediente>
+<ingrediente>La ralladura de un limón (pequeño)</ingrediente>
+</ingredientes>
+<introduccion>
+La “bica de Trives” es, a día de hoy, uno de los símbolos de este pueblo de la provincia de Ourense.
+Aunque comparte su éxito con otros “hits” de la gastronomía local como son los productos de la matanza, la castaña y los buenos vinos de las variedades mencía y godello.
+En este pueblo cuyo nombre completo es “A Pobra de Trives” celebran el último fin de semana de julio (este año 27 y 28) la “Festa da Bica de Trives” celebrando una comida popular y la consiguiente degustación de su bica mantecada.
+Esta bica es un postre marcado por dos de sus ingredientes imprescindibles: la masa de pan y la manteca de vaca. Estos le aportan una textura consistente, jugosa, con un sabor inconfundible, y alargan su conservación durante 10-12 días en buenas condiciones.
+La receta que usaremos nos la ha pasado una conocida de A Pobra de Trives que trabajó en una panadería, donde las suelen guardar bajo llave para preservar su exclusividad en la elaboración.
+Es tanto el amor que le tenemos por estas tierras ourensanas que nos dan ganas de comerla en cualquier momento del día: en el desayuno, como postre principal o en la sobremesa acompañada de un buen licor-café, a la hora de la merienda e incluso por la noche acompañada de un rico vaso de leche.
+Podemos acompañarla con una mermelada casera de fresa o frambuesa. También un buen maridaje para esta bica es un buen licor café que combina a la perfección con este tipo de bizcochos mantecosos.
+</introduccion>
+<preparacion>
+<titulo>
+Preparación de la masa de pan
+</titulo>
+<paso>Lo conveniente es preparar esta masa de pan varias horas antes, para darle tiempo a crecer, y luego que repose en un lugar templado y oscuro.</paso>
+<paso>He utilizado levadura fresca que he comprado en la panadería del barrio. Sale muy barata, a 1 céntimo el gramo. El mayor problema que tiene es su conservación, ya que en el frigorífico tan solo nos aguantará 2-3 días en condiciones.</paso>
+<paso>Cuando la compramos tiene color blanco, muy ligeramente amarillo, y con el paso del tiempo se va poniendo amarillo ocre y de textura dura, momento en el que ya estará inservible.</paso>
+<paso>En un bol metálico grande, ponemos la harina de base, le hacemos un hueco en el centro y vertemos el agua.</paso>
+<paso>Añadimos la levadura fresca desmenuzada y un pellizco de sal, vamos mezclando con los dedos para incorporar el agua totalmente.</paso>
+<paso>Amasamos todo con la ayuda de las manos y lo pasamos a una tabla de madera con harina espolvoreada encima.</paso>
+<paso>Continuamos amasando con movimientos firmes. Añadiendo un poco de harina si es necesario (ya nos lo va pidiendo la masa), hasta ir formando una bola homogénea. Comprobamos que ya no se nos pega a las manos.</paso>
+<paso>El amasado nos llevará aproximadamente unos 15 minutos. Tapamos la bola obtenida con un paño limpio o film transparente y la dejamos reposar mínimo unas dos horas.</paso>
+<paso>Durante este tiempo crecerá de tamaño (aprox. el doble), y sabremos cuando está en su punto cuando presionemos con un dedo y la huella vuelve atrás lentamente.</paso>
+</preparacion>
+<preparacion>
+<titulo>
+Preparación de la bica de Trives
+</titulo>
+<paso>Partiendo de manteca de vaca comprada. la colocamos al baño maría para que se ablande. Cuando esté casi líquida la pasamos a un bol grande y la terminamos de disolver con la ayuda de un tenedor.</paso>
+<paso>La vamos batiendo mientras se le añade poco a poco el azúcar. Seguimos batiendo y añadimos los huevos uno a uno, hasta integrarlos bien con el resto.</paso>
+<paso>Añadimos ahora la masa de pan en trozos poco a poco. Vamos mezclando con un tenedor o varillas metálicas, ayudando a que se deshaga completamente y no queden grumos.</paso>
+<paso>Acabada y mezclada la masa, incorporamos ahora la harina poco a poco, que previamente hemos tamizado.</paso>
+<paso>Por último añadimos la ralladura de un limón pequeño, para no pasarnos en el sabor que le pueda transmitir a la bica.</paso>
+</preparacion>
+<preparacion>
+<titulo>
+Horneado y presentación final de la bica de Trives
+</titulo>
+<paso>Para hacer este postre he usado un molde metálico de 30 x 21 cm recubierto de papel de horno.</paso>
+<paso>Precalentamos el molde en el horno a 180º C durante 10 minutos en la función calor total. Vertemos la masa cremosa en el interior.</paso>
+<paso>Mezclamos los 50 gr. de azúcar con canela en polvo. Con la ayuda de un pequeño colador, vamos espolvoreando sobre la masa uniformemente.</paso>
+<paso>Horneamos 45-50 minutos en función de la potencia del horno. Si vemos que en la parte final se tuesta demasiado la parte superior, podemos tapar con papel de horno.</paso>
+<paso>Como con el resto de bizcochos/bicas, comprobamos con un pincho el punto de elaboración. Debe salir seco y sin dificultad.</paso>
+<paso>Retiramos y dejamos enfriar completamente antes de catarla.</paso>
+<paso>Es aconsejable hacerla de un día para otro, así cuando la comamos ya habrá enfriado y reposado. Estará realmente deliciosa.</paso>
+<paso>Si la preparáis por la tarde, estará perfecta para degustarla en el desayuno del día siguiente.</paso>
+</preparacion>
+</plato>
+</platos>

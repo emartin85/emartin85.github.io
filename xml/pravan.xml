@@ -1,0 +1,91 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="platos.xsl"?>
+<platos xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" nombre="Principal" xsi:noNamespaceSchemaLocation="schema.xsd">
+<plato id="Avanzado">
+<nombre>Empanada de berberechos con masa de maíz</nombre>
+<imagen>../imagenes/platos/empanada.jpg</imagen>
+<video>https://www.youtube.com/embed/hd71_nTNcig</video>
+<musica>../audio/7.mp3</musica>
+<ingredientes>
+<titulo>
+Ingredientes para Empanada de berberechos con masa de maíz
+</titulo>
+<ingrediente>600 g. de masa de maíz para empanada gallega</ingrediente>
+<ingrediente>Para el relleno: 1,5 kg. de berberechos</ingrediente>
+<ingrediente>Para desbabar: Un puñado de sal gorda y agua</ingrediente>
+<ingrediente>1 pimiento rojo grande</ingrediente>
+<ingrediente>2 cebollas grandes</ingrediente>
+<ingrediente>Aceite de oliva virgen extra</ingrediente>
+<ingrediente>50 ml. de vino blanco gallego y una hojita de laurel (opcional)</ingrediente>
+<ingrediente>1 cucharada de pimentón dulce</ingrediente>
+</ingredientes>
+<introduccion>
+Cuando vayáis a Galicia y veáis en un restaurante empanada de millo con croques… entrad y pedid un trozo, es una de las recetas estrella de mi tierra. Y si quedáis contentos, la receta la tenéis en vuestras manos.
+Una empanada estrella con la que recordaréis Galicia y su costa, todo el sabor a mar que te traslada a terras galegas de un plumazo.
+No os voy a engañar, es una empanada laboriosa pero que merece la pena. El trabajo viene de la masa de maíz que es difícil de manipular pero que da a la empanada una textura crujiente difícil de superar.
+Una vez dominada la técnica de la empanada de millo podréis variar el relleno.
+Además de los berberechos, la podéis encontrar de berberechos y bacalao, pulpo, zamburiñas, vieiras, sardinas, xoubas o parrochas, e incluso de congrio. Espero que os guste y os animéis con ella.
+</introduccion>
+<preparacion>
+<titulo>
+Desbabar los berberechos antes de cocinar
+</titulo>
+<paso>Los berberechos estaban muy frescos, y la verdad es que traían muy poca arena de la Ría, pero es fundamental quitar bien esa arena que para que no sea molesta y no nos estropee la receta.</paso>
+<paso>Este proceso en Galicia se llama “desbabar”, lo mejor es hacerlo en agua de mar pero aquí en Madrid no es fácil conseguirla, así que lo haremos en agua con abundante sal.</paso>
+<paso>Debemos colocar los berberechos en un bol grande con abundante agua fría y un buen puñado de sal gruesa.</paso>
+<paso>Los dejo 3 horas en este agua con sal. Unos 6 gramos de sal por 1 litro de agua y cambiando tres veces el agua, una vez cada hora.</paso>
+<paso>Así los berberechos tragan el agua con sal limpia expulsando la tierra que traen.</paso>
+<paso>Los movemos un poco con las manos, los de abajo para arriba para que si están amontonados expulsen todos la arena.</paso>
+<paso>Sacamos los berberechos y escurrimos el agua. Reservamos.</paso>
+</preparacion>
+<preparacion>
+<titulo>
+Preparación de los berberechos al vapor
+</titulo>
+<paso>Para hacerlas al vapor el proceso es muy sencillo. Escurrimos, lavamos y repartimos los berberechos en un trapo de cocina limpio para que queden lo más secos posible.</paso>
+<paso>Calentaremos a fuego fuerte un poquito de sal gorda (2 gramos) con unas gotas de aceite de oliva virgen extra. Cuando esté a tope de temperatura la cazuela regaremos con un buen chorro de vino blanco gallego.</paso>
+<paso>Añadimos la hoja de laurel fresco y tapamos la cazuela. Subimos el fuego a tope y cuando empiece a hervir la destapamos y añadimos los berberechos.</paso>
+<paso>Los dejamos cocer unos 2 minutos máximo, si se han abierto antes los sacamos. Así evitamos que se pasen de cocción.</paso>
+<paso>Es preferible hacerlos en varias tandas, evitando que se apelmacen unos sobre otros porque será más complicado conseguir que se abran. Así también se harán antes.</paso>
+<paso>Retiramos con una espumadera a una bandeja o plato grande, dejando el líquido restante.</paso>
+<paso>Este caldo restante no se os ocurra tirarlo, es perfecto para darle más sabor a la masa de la empanada (sustituyendo el caldo de los berberechos por el agua de la masa).</paso>
+<paso>También para preparar una sopa, un caldo para un arroz o para darle sabor a unas croquetas. Agua casi bendita.</paso>
+</preparacion>
+<preparacion>
+<titulo>
+Preparación del relleno de la empanada de berberechos
+</titulo>
+<paso>Cortamos la cebolla en juliana fina, es decir, en tiras finitas. Cortamos en dados pequeñitos el pimiento rojo. Reservamos.</paso>
+<paso>Ponemos al fuego una cazuela con aceite de oliva virgen extra y cuando esté caliente echamos las 2 cebollas y el pimiento.</paso>
+<paso>Las pasamos unos 10 minutos a fuego medio hasta que queden transparentes y pochaditas. Añadimos el pimentón dulce, removemos y retiramos todo con una espumadera. Pasamos a un plato y reservamos</paso>
+<paso>Apartamos el aceite sobrante en un vaso. Lo vamos a emplear para untar la bandeja de la empanada y para preparar la masa de maíz, aunque este último paso, es opcional.</paso>
+<paso>Es importante quitar el exceso de aceite para que el relleno quede jugoso y a la vez para emplearlo en la preparación de la masa, tal como podéis leer en el post sobre la masa de maíz para empanada.</paso>
+<paso>Quitamos los berberechos de su concha y reservamos. Ya tenemos todo preparado para pasar al siguiente paso, preparar nuestra empanada de berberechos.</paso>
+</preparacion>
+<preparacion>
+<titulo>
+Elaboración de la empanada de maíz
+</titulo>
+<paso>Ya tenemos el compango enfriando y la masa de maíz preparada para empezar con la empanada. Preparamos la zona donde vamos a amasar, por ejemplo la encimera de la cocina es perfecta.</paso>
+<paso>Dividimos la masa de la empanada en dos partes similares. Las amasamos otra vez en dos bolas de masa para poder trabajar bien con ellas.</paso>
+<paso>Ahora vamos a pincelar con el aceite del sofrito la base del molde donde vamos a preparar la empanada. Por las fotos y el vídeo hemos elegido un molde rectangular, pero podéis adaptar el tamaño al que más os guste. Una empanada redonda también queda muy bien.</paso>
+<paso>Lo complicado de esta masa es que no se puede estirar, por lo que hay que proceder de la siguiente manera. Mojamos las manos en aceite de oliva y tomamos una porción pequeña de la masa.</paso>
+<paso>La aplastamos entre las manos lo más fina posible y la ponemos en el molde que hemos engrasado previamente.</paso>
+<paso>Tomamos otra porción de la masa y procedemos de la misma manera. La colocamos al lado de la anterior y con los dedos o con un tenedor y la pegamos al lado de la anterior. Seguid el paso a paso de la receta, así no os quedará ninguna duda.</paso>
+<paso>Una vez cubierta la base del molde, ponemos la base de cebolla y pimiento encima. Colocamos los berberechos encima de la capa de cebolla, distribuidos uniformemente para que haya marisco por toda la superficie.</paso>
+<paso>Vamos a terminar la empanada, tapamos con el resto de la masa de igual forma, a pegotes. Colocamos el primer trozo de masa y seguimos con las restantes. Ahora sí que con la ayuda de un tenedor, iremos juntado y cerrando todas las uniones. Es importante que quede lo más fina posible.</paso>
+<paso>Una vez tapada nuestra empanada, le vertemos un par de cucharadas de aceite por encima. Este tipo de masa quiere bastante aceite para hornearse adecuadamente.</paso>
+<paso>Una vez tapada vamos a hacer unos cortes en forma de cuadrado, para que sea más fácil de cortar una vez horneada. Así será muy fácil servir las porciones de empanada.</paso>
+</preparacion>
+<preparacion>
+<titulo>
+Horneado y presentación final de la empanada de berberechos
+</titulo>
+<paso>Precalentamos durante 5 minutos el horno a 220º C.</paso>
+<paso>Horneamos aproximadamente 45 minutos a 190º C, primero en la parte de abajo del horno (unos 20 minutos) y luego otros 20 minutos en el centro. Siempre con temperatura arriba y abajo con aire. Como siempre os digo, cada horno es un mundo, y también depende del molde utilizado.</paso>
+<paso>En mi caso hemos empleado uno de cristal y tarda un poco más. Si lo hacéis en una cazuela o molde metálico se hará antes. Cuando esté bien doradita la sacamos y dejamos enfriar un poquito.</paso>
+<paso>Está más rica templada que caliente. Tened cuidado al sacarla de la bandeja porque aún estará caliente y es fácil que se rompa.</paso>
+<paso>Cortadla por las señales que hemos hecho previamente y sacad con cuidado. Buen provecho.</paso>
+</preparacion>
+</plato>
+</platos>
